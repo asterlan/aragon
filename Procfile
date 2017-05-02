@@ -1,1 +1,1 @@
-web: python3 Arabot.py
+worker: python3 Arabot.py
